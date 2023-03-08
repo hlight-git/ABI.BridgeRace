@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Brick
-  - Platform
+  - GroundBrick
+  - UnBrick
+  - Surface
+  - CollectedBrick
   layers:
   - Default
   - TransparentFX
@@ -13,10 +15,10 @@ TagManager:
   - Ignore NavMesh
   - Water
   - UI
-  - Platform
-  - 
-  - 
-  - 
+  - Surface
+  - UnBrick
+  - PlayerBlocker
+  - Player
   - 
   - 
   - 

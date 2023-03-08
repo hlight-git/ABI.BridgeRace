@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7b92ff2887f4024b985ba123235b188
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UnBrickPrefab: {fileID: 4794915536411747441, guid: 424e743e75523be49970cc1f3256efb4, type: 3}
+  - UnBrickRoot: {instanceID: 0}
+  - Surface: {instanceID: 0}
+  - LeftRail: {instanceID: 0}
+  - RightRail: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
