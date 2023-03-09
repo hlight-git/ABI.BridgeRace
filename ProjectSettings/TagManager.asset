@@ -12,13 +12,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ignore NavMesh
+  - 
   - Water
   - UI
   - Surface
   - UnBrick
-  - PlayerBlocker
-  - Player
+  - 
+  - 
   - 
   - 
   - 

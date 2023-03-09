@@ -11,7 +11,6 @@ public class GameConstant
         public const string GROUND_BRICK = "GroundBrick";
         public const string COLLECTED_BRICK = "CollectedBrick";
         public const string UNBRICK = "UnBrick";
-        public const string WINZONE_SPHERE = "WinzoneSphere";
     }
     public class Layer
     {
